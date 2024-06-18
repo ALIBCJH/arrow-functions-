@@ -16,3 +16,7 @@ const = greeting = (name) => {
 
 //ARROW FUNCTIONS AS SINGLE LINE FUNCTION
 const greetting = (name) `Hello, ${name}!`;
+ const voter = ()=> {
+  console.log('you voted for malema who lost');
+ }
+ console.log("welcome back to git juma");
