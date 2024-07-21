@@ -20,3 +20,7 @@ const greetting = (name) `Hello, ${name}!`;
   console.log('you voted for malema who lost');
  }
  console.log("welcome back to git juma");
+
+ const Hello = (Name) `Hello, ${Name}!`;
+ Hello()
+  console.log(Hello('Simon'));
